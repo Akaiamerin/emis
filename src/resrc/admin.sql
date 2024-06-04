@@ -1,0 +1,1 @@
+INSERT INTO admin (acct, pwd) VALUES ('admin', '111111');
